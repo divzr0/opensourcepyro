@@ -5,4 +5,26 @@ This repostiory was setup to allow open source contribution from the pyrotechnic
 
 We just kicked off this repository and are looking for contributions.
 
+## Electronic Firing Systems
+### COBRA
+#### Sample Scripts
+
+##### Chase
+##### Timing Exampels
+##### DMX Sequencing
+
+## Construction Parameters
+### Rack Construction
+### Fireballs
+
+## Best Practices
+### Show Checklists
+### Standards and Refernces
+#### NFPA
+#### State Requirements
+
+##Firework Creation
+
+## 3D Printable Supplies
+
 
