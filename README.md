@@ -23,8 +23,6 @@ We just kicked off this repository and are looking for contributions.
 #### NFPA
 #### State Requirements
 
-##Firework Creation
-
 ## 3D Printable Supplies
 
 
