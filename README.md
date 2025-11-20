@@ -26,5 +26,6 @@ I just kicked off this repostory and are looking for any contribution the commun
 ## 3D Printable Supplies
 
 ## Helper Scripts and Utilities
-
+### Cobra
+#### Cobra Script Duplicate Checker
 
